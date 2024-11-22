@@ -1,8 +1,8 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: 2nd Lorem ipsum dolor sit
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
-pubDate: 2020-02-02T00:00:00Z
+title: Pengujian Manual vs Otomatis
+description: Kapan menggunakan keduanya untuk hasil yang maksimal? Pelajari perbedaan, kelebihan, dan kapan masing-masing pendekatan dapat meningkatkan kualitas perangkat lunak Anda.
+pubDate: 2024-11-30T00:00:00Z
 imgSrc: '/assets/images/image-post5.jpeg'
 imgAlt: 'Image post 5'
 ---

@@ -16,31 +16,29 @@ const ProjectList = () => (
   >
     <div className="flex flex-col gap-6">
       <Project
-        name="Project 1"
-        description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-        bibendum. Nunc non posuere consectetur, justo erat semper enim, non
-        hendrerit dui odio id enim."
+        name="Sauce Demo"
+        description="Projek Sauce Demo ini yang melibatkan pembuatan Test Case & Test Scenario, Bug Report, dan Otomasi di Katalon Studio dengan menggunakan metode BDD (Behavior-Driven Development) dan Cucumber."
         link="/"
         img={{
-          src: '/assets/images/project-web-design.png',
+          src: '/assets/images/swaglab.png',
           alt: 'Project Web Design',
         }}
         category={
           <>
-            <Tags color={ColorTags.FUCHSIA}>Astro.js</Tags>
-            <Tags color={ColorTags.LIME}>Web design</Tags>
-            <Tags color={ColorTags.SKY}>Tailwind.css</Tags>
+            <Tags color={ColorTags.FUCHSIA}>E2E Testing</Tags>
+            <Tags color={ColorTags.LIME}>Smoke Testing</Tags>
+            <Tags color={ColorTags.SKY}>Regression Testing</Tags>
             <Tags color={ColorTags.ROSE}>TypeScript</Tags>
           </>
         }
       />
       <Project
-        name="Project 2"
+        name="Secondhand Web App"
         description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
         bibendum. Nunc non posuere consectetur, justo erat semper enim, non
         hendrerit dui odio id enim."
         link="/"
-        img={{ src: '/assets/images/project-fire.png', alt: 'Project Fire' }}
+        img={{ src: '/assets/images/binar.png', alt: 'Project Fire' }}
         category={
           <>
             <Tags color={ColorTags.VIOLET}>Next.js</Tags>
@@ -50,12 +48,12 @@ const ProjectList = () => (
         }
       />
       <Project
-        name="Project 3"
+        name="Secondhand Mobile App"
         description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
         bibendum. Nunc non posuere consectetur, justo erat semper enim, non
         hendrerit dui odio id enim."
         link="/"
-        img={{ src: '/assets/images/project-maps.png', alt: 'Project Maps' }}
+        img={{ src: '/assets/images/binar.png', alt: 'Project Maps' }}
         category={
           <>
             <Tags color={ColorTags.FUCHSIA}>Astro.js</Tags>

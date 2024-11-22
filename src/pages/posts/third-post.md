@@ -1,8 +1,8 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: 3rd Lorem ipsum dolor sit
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur vero esse non molestias eos excepturi.
-pubDate: 2020-02-03T00:00:00Z
+title: Alat-Alat Pengujian Populer
+description: Alat pengujian tidak hanya mempercepat proses pengujian, tetapi juga meningkatkan akurasi dan efektivitasnya.
+pubDate: 2024-11-30T00:00:00Z
 imgSrc: '/assets/images/image-post4.jpeg'
 imgAlt: 'Image post 4'
 ---
