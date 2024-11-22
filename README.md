@@ -5,7 +5,7 @@ with Tailwind CSS 3.0. ⚡️ Made with Astro, TypeScript, ESLint, Prettier,
 Tailwind CSS.
 
 Clone this project and use it to create your own Astro blog. You can check the
-[Astro templates demo](https://creativedesignsguru.com/demo/astro-boilerplate/).
+<!-- [Astro templates demo](https://creativedesignsguru.com/demo/astro-boilerplate/). -->
 
 ## Sponsors
 
@@ -69,7 +69,7 @@ Clone this project and use it to create your own Astro blog. You can check the
   </tr>
   <tr height="187px">
     <td align="center" width="33%">
-      <a href="mailto:contact@creativedesignsguru.com">
+      <a href="mailto:contact@rivalmsayid@gmail.com>
         Add your logo here
       </a>
     </td>
@@ -255,7 +255,7 @@ Licensed under the MIT License, Copyright © 2024
   </tr>
   <tr height="187px">
     <td align="center" width="33%">
-      <a href="mailto:contact@creativedesignsguru.com">
+      <a href="mailto:contact@rivalmsayid@gmail.com">
         Add your logo here
       </a>
     </td>
@@ -264,7 +264,6 @@ Licensed under the MIT License, Copyright © 2024
 
 ---
 
-Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
+Made with ♥ [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
 
 [![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://github.com/sponsors/ixartz)
