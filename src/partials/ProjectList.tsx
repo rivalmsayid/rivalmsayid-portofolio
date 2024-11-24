@@ -18,7 +18,7 @@ const ProjectList = () => (
       <Project
         name="Sauce Demo"
         description="Projek Sauce Demo ini yang melibatkan pembuatan Test Case & Test Scenario, Bug Report, dan Otomasi di Katalon Studio dengan menggunakan metode BDD (Behavior-Driven Development) dan Cucumber."
-        link="http://localhost:4321/posts/swaglabs/"
+        link="/posts/swaglabs/"
         img={{
           src: '/assets/images/swaglab.png',
           alt: 'Project Web Design',
@@ -35,7 +35,7 @@ const ProjectList = () => (
       <Project
         name="Secondhand Web App"
         description="Proyek ini mencakup Test Case & Scenario, Bug Report, API Testing dengan Postman, Performance Testing dengan JMeter, serta Otomasi di Katalon Studio menggunakan metode BDD Cucumber."
-        link="http://localhost:4321/posts/secondhand-web/"
+        link="/posts/secondhand-web/"
         img={{ src: '/assets/images/binar.png', alt: 'Project Fire' }}
         category={
           <>
@@ -48,7 +48,7 @@ const ProjectList = () => (
       <Project
         name="Secondhand Mobile App"
         description="Proyek ini mencakup Test Case & Scenario, Bug Report, API Testing dengan Postman, Performance Testing dengan JMeter, serta Otomasi di Katalon Studio menggunakan metode BDD Cucumber."
-        link="http://localhost:4321/posts/secondhand-mobile/"
+        link="/posts/secondhand-mobile/"
         img={{ src: '/assets/images/binar.png', alt: 'Project Maps' }}
         category={
           <>
