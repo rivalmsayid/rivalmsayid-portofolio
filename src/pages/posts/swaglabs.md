@@ -41,4 +41,4 @@ Pengujian Kompatibilitas Pengujian ini bertujuan untuk memastikan bahwa perangka
 
 Automasi Pengujian Automasi pengujian mengurangi beban kerja manual dengan menjalankan skrip pengujian secara otomatis. Alat seperti Selenium, Katalon Studio, atau JUnit sering digunakan untuk pengujian otomatis.
 
-Laporan dan Tindak Lanjut Setelah pengujian dilakukan, hasilnya akan dilaporkan kepada tim pengembang untuk perbaikan. QA Engineer juga akan melacak perbaikan dan melakukan pengujian ulang untuk memastikan masalah telah diperbaiki.
+Laporan dan Tindak Lanjut Setelah pengujian dilakukan, hasilnya akan dilaporkan kepada tim pengembang untuk perbaikan. QA Engineer juga akan melacak perbaikan dan melakukan pengujian ulang untuk memastikan masalah telah diperbaiki. 
