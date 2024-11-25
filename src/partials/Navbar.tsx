@@ -33,8 +33,8 @@ const Navbar = () => (
       </a>
 
       <NavMenu>
-        <NavMenuItem href="https://rivalmsayid.github.io/[EN]%20CV%20Rival%20Muhammad%20Sayid.pdf">
-          Resume
+        <NavMenuItem href="https://drive.google.com/file/d/1KwjWVdxx5EujnorZS-WNgovcu6fQv3fl/view?usp=sharing">
+          Download CV
         </NavMenuItem>
         <NavMenuItem href="/posts/">Blogs</NavMenuItem>
         <NavMenuItem href="https://github.com/rivalmsayid">GitHub</NavMenuItem>
