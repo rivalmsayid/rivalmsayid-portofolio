@@ -9,36 +9,28 @@ imgAlt: 'Image post 8'
 
 ---
 
-## Fundamental Quality Assurance (QA): Dasar-dasar yang Perlu Anda Ketahui
+## Sauce Demo 
+Sauce Demo adalah sebuah situs web demo sederhana yang dibuat oleh Sauce Labs. Website ini sering digunakan sebagai platform uji coba untuk pengujian otomatisasi (automation testing) dan manual testing.
 
-Quality Assurance (QA) adalah proses yang memastikan bahwa perangkat lunak atau produk yang dikembangkan sesuai dengan standar kualitas yang ditetapkan dan bebas dari kesalahan. QA berperan penting dalam memastikan bahwa aplikasi atau sistem yang digunakan oleh pengguna berfungsi dengan baik dan tanpa masalah. Artikel ini akan membahas dasar-dasar QA, serta teknik dan alat yang digunakan dalam proses ini.
+Sauce Demo mensimulasikan aplikasi e-commerce dengan fitur-fitur seperti login, melihat produk, menambahkan barang ke keranjang belanja (cart), melakukan checkout, dan logout. Website ini menyediakan elemen-elemen yang ideal untuk berbagai skenario pengujian, seperti:
 
-## Apa Itu Quality Assurance?
+1. Testing Login Form
+Menguji berbagai kombinasi username dan password (valid, invalid, kosong).
+2. UI Testing
+Menguji elemen pada halaman, seperti tombol, dropdown, dan ikon.
+3. Functional Testing
+Menguji proses bisnis, seperti menambahkan barang ke keranjang atau menyelesaikan transaksi.
 
-Quality Assurance adalah serangkaian aktivitas yang dilakukan untuk memastikan bahwa produk perangkat lunak memenuhi standar kualitas yang ditentukan. QA berfokus pada pencegahan kesalahan dan peningkatan kualitas sepanjang siklus hidup pengembangan perangkat lunak. Tujuannya adalah untuk memastikan bahwa setiap bagian dari aplikasi atau sistem diuji dengan cermat untuk menghasilkan produk yang dapat diandalkan dan bebas dari bug.
+### URL Website
+https://www.saucedemo.com
 
-### Perbedaan Antara QA dan Testing
+### Bug Report
+Lampiran Bug Report:
+https://docs.google.com/document/d/1jhiBsY4nPVhX7a9pCVTrVrjd02QcLvLA/edit?usp=sharing&ouid=106378069491676762286&rtpof=true&sd=true
 
-Meskipun sering digunakan secara bergantian, Quality Assurance (QA) dan Testing memiliki perbedaan mendasar:
+### Test Case & Test Scenario
+Lampiran Test Case & Test Scenario:
 
-- Quality Assurance (QA) adalah pendekatan yang lebih luas yang mencakup seluruh proses pengembangan perangkat lunak. QA bertujuan untuk meningkatkan proses secara keseluruhan, meminimalkan cacat sejak awal, dan meningkatkan kualitas produk.
-- Software Testing adalah bagian dari QA yang lebih terfokus pada pencarian dan identifikasi kesalahan atau bug dalam perangkat lunak. Testing melibatkan prosedur untuk memverifikasi bahwa perangkat lunak bekerja sesuai dengan yang diinginkan.
-  
+### Automation Testing dengan Katalon Studio
+Lampiran Automation Testing:
 
-### Langkah-Langkah dalam Proses QA
-
-Proses QA terdiri dari beberapa langkah penting yang harus dilakukan untuk memastikan bahwa perangkat lunak bebas dari bug dan siap untuk digunakan oleh pengguna. Langkah-langkah tersebut meliputi:
-
-Perencanaan dan Persiapan Pada tahap ini, QA Engineer merencanakan pengujian yang akan dilakukan, termasuk jenis pengujian yang akan digunakan dan alat yang akan dipakai. Selain itu, tim juga menentukan skenario pengujian dan menetapkan standar kualitas yang diinginkan.
-
-Pengujian Fungsional Pengujian fungsional bertujuan untuk memeriksa apakah aplikasi berfungsi sesuai dengan spesifikasi yang diinginkan. Ini mencakup pengujian input, output, dan interaksi antar sistem.
-
-Pengujian Performa Pengujian performa digunakan untuk mengukur seberapa baik aplikasi bekerja dalam kondisi tertentu, seperti beban tinggi atau banyaknya pengguna yang mengakses aplikasi secara bersamaan. Alat seperti JMeter atau LoadRunner sering digunakan untuk melakukan pengujian ini.
-
-Pengujian Keamanan Pengujian ini berfokus pada keamanan aplikasi untuk memastikan bahwa data pengguna terlindungi dan aplikasi tidak rentan terhadap serangan seperti SQL injection atau Cross-Site Scripting (XSS).
-
-Pengujian Kompatibilitas Pengujian ini bertujuan untuk memastikan bahwa perangkat lunak dapat berfungsi dengan baik di berbagai perangkat, sistem operasi, dan browser yang berbeda.
-
-Automasi Pengujian Automasi pengujian mengurangi beban kerja manual dengan menjalankan skrip pengujian secara otomatis. Alat seperti Selenium, Katalon Studio, atau JUnit sering digunakan untuk pengujian otomatis.
-
-Laporan dan Tindak Lanjut Setelah pengujian dilakukan, hasilnya akan dilaporkan kepada tim pengembang untuk perbaikan. QA Engineer juga akan melacak perbaikan dan melakukan pengujian ulang untuk memastikan masalah telah diperbaiki. 
