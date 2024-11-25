@@ -28,7 +28,6 @@ const ProjectList = () => (
             <Tags color={ColorTags.FUCHSIA}>E2E Testing</Tags>
             <Tags color={ColorTags.LIME}>Smoke Testing</Tags>
             <Tags color={ColorTags.SKY}>Regression Testing</Tags>
-            <Tags color={ColorTags.ROSE}>TypeScript</Tags>
           </>
         }
       />
@@ -39,9 +38,11 @@ const ProjectList = () => (
         img={{ src: '/assets/images/binar.png', alt: 'Project Fire' }}
         category={
           <>
-            <Tags color={ColorTags.VIOLET}>Next.js</Tags>
-            <Tags color={ColorTags.EMERALD}>Blog</Tags>
-            <Tags color={ColorTags.YELLOW}>JavaScript</Tags>
+            <Tags color={ColorTags.EMERALD}>Katalon Studio</Tags>
+            <Tags color={ColorTags.YELLOW}>Cucumber</Tags>
+            <Tags color={ColorTags.VIOLET}>BDD</Tags>
+            <Tags color={ColorTags.INDIGO}>Regression</Tags>
+            <Tags color={ColorTags.FUCHSIA}>E2E Testing</Tags>
           </>
         }
       />
@@ -52,9 +53,12 @@ const ProjectList = () => (
         img={{ src: '/assets/images/binar.png', alt: 'Project Maps' }}
         category={
           <>
-            <Tags color={ColorTags.FUCHSIA}>Astro.js</Tags>
-            <Tags color={ColorTags.INDIGO}>Bootstrap</Tags>
-            <Tags color={ColorTags.ROSE}>TypeScript</Tags>
+            {/* <Tags color={ColorTags.FUCHSIA}>Astro.js</Tags> */}
+            <Tags color={ColorTags.EMERALD}>Katalon Studio</Tags>
+            <Tags color={ColorTags.ROSE}>Appium</Tags>
+            <Tags color={ColorTags.VIOLET}>BDD</Tags>
+            <Tags color={ColorTags.INDIGO}>Regression</Tags>
+            <Tags color={ColorTags.FUCHSIA}>E2E Testing</Tags>
           </>
         }
       />
