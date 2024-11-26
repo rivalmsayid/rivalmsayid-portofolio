@@ -32,5 +32,5 @@ https://docs.google.com/document/d/1jhiBsY4nPVhX7a9pCVTrVrjd02QcLvLA/edit?usp=sh
 Lampiran Test Case & Test Scenario:
 
 ### Automation Testing dengan Katalon Studio
-Lampiran Automation Testing:
-
+Lampiran Automation Testing:              
+https://github.com/rivalmsayid/Saucedemo-automation
