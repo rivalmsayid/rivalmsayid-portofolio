@@ -63,7 +63,7 @@ Dengan adanya Miro, tim QA dapat lebih efektif dalam mengevaluasi dan meningkatk
 Pendekatan Testing:
 Dilakukan exploratory testing pada fitur utama seperti login, unggah produk, dan checkout.
 
-![alt text](/src/images/bug.png 'Dokumentasi Bug')
+![alt text](/assets/images/bug.png 'Dokumentasi Bug')
 
 Lampiran Bug List:
 [Dokumentasi Bug](https://docs.google.com/document/d/1UWyP52RSNy6ajs4od1KVh5ueIKSk91g1/edit?usp=sharing&ouid=106378069491676762286&rtpof=true&sd=true "Dokumentasi Bug")
@@ -71,7 +71,7 @@ Lampiran Bug List:
 
 ### 3. Membuat Test Case & Test Scenario
 
-![alt text](/src/images/test_case.png 'Dokumentasi Test Case')
+![alt text](/assets/images/test_case.png 'Dokumentasi Test Case')
 
 Lampiran Test Case & Test Scenario:
 [Dokumentasi Test Case & Test Scenario](https://docs.google.com/spreadsheets/d/1vR60SfsEgfKWEnIY0c0tq0Fxe_bXHRf6HvF65ix3Lnk/edit?gid=1028355474#gid=1028355474 "Dokumentasi Test Case & Test Scenario")
