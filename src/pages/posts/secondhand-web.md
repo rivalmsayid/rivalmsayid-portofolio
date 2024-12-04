@@ -63,25 +63,30 @@ Dengan adanya Miro, tim QA dapat lebih efektif dalam mengevaluasi dan meningkatk
 Pendekatan Testing:
 Dilakukan exploratory testing pada fitur utama seperti login, unggah produk, dan checkout.
 
+![alt text](/src/images/bug.png 'Dokumentasi Bug')
+
 Lampiran Bug List:
-https://docs.google.com/document/d/1UWyP52RSNy6ajs4od1KVh5ueIKSk91g1/edit?usp=sharing&ouid=106378069491676762286&rtpof=true&sd=true
+[Dokumentasi Bug](https://docs.google.com/document/d/1UWyP52RSNy6ajs4od1KVh5ueIKSk91g1/edit?usp=sharing&ouid=106378069491676762286&rtpof=true&sd=true "Dokumentasi Bug")
+
 
 ### 3. Membuat Test Case & Test Scenario
 
+![alt text](/src/images/test_case.png 'Dokumentasi Test Case')
+
 Lampiran Test Case & Test Scenario:
-https://docs.google.com/spreadsheets/d/1vR60SfsEgfKWEnIY0c0tq0Fxe_bXHRf6HvF65ix3Lnk/edit?gid=1028355474#gid=1028355474
+[Dokumentasi Test Case & Test Scenario](https://docs.google.com/spreadsheets/d/1vR60SfsEgfKWEnIY0c0tq0Fxe_bXHRf6HvF65ix3Lnk/edit?gid=1028355474#gid=1028355474 "Dokumentasi Test Case & Test Scenario")
 
 ### 4. API Testing dengan Postman
 
 Lampiran API Testing:
-https://drive.google.com/drive/folders/1zAwie0w9LcAWFn7zLOD7_qMjVh28Xzvq?usp=sharing
+[Dokumentasi API Testing](https://drive.google.com/drive/folders/1zAwie0w9LcAWFn7zLOD7_qMjVh28Xzvq?usp=sharing "Dokumentasi API Testing")
 
 ### 5. Performance Testing dengan JMeter
 
-Lampiran Performance Testing:                              
-https://github.com/rivalmsayid/Portfolio-Bootcamp-QA/tree/main/1.%20Gold%20Challenge/4.%20Apache%20JMeter/Report%20Website
+Lampiran Performance Testing: 
+[Dokumentasi Performance Testing](https://github.com/rivalmsayid/Portfolio-Bootcamp-QA/tree/main/1.%20Gold%20Challenge/4.%20Apache%20JMeter/Report%20Website "Performance Testing")
 
 ### 6. Automation Testing dengan Katalon Studio
 
-Lampiran Automation Testing:                             
-https://gitlab.com/rivalmsayid/project-binar-website
+Lampiran Automation Testing: [Dokumentasi Automation Testing](https://gitlab.com/rivalmsayid/project-binar-website "Dokumentasi Automation Testing")
+
