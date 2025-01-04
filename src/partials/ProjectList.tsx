@@ -16,6 +16,22 @@ const ProjectList = () => (
   >
     <div className="flex flex-col gap-6">
       <Project
+        name="EAGLE VISION"
+        description="Sebagai QA Manual di PT Deus Human Capital Service, saya memiliki tanggung jawab utama untuk memastikan kualitas aplikasi mobile dan situs web Eagle Vision."
+        link="/posts/swaglabs/"
+        img={{
+          src: '/assets/images/swaglab.png',
+          alt: 'Project Web Design',
+        }}
+        category={
+          <>
+            <Tags color={ColorTags.FUCHSIA}>UAT Testing</Tags>
+            <Tags color={ColorTags.LIME}>UI UX Testing</Tags>
+            {/* <Tags color={ColorTags.SKY}>Regression Testing</Tags> */}
+          </>
+        }
+      />
+      <Project
         name="Sauce Demo"
         description="Projek Sauce Demo ini yang melibatkan pembuatan Test Case & Test Scenario, Bug Report, dan Otomasi di Katalon Studio dengan menggunakan metode BDD (Behavior-Driven Development) dan Cucumber."
         link="/posts/swaglabs/"
