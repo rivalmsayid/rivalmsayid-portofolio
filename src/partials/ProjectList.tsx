@@ -20,7 +20,7 @@ const ProjectList = () => (
         description="Sebagai QA Manual di PT Deus Human Capital Service, saya memiliki tanggung jawab utama untuk memastikan kualitas aplikasi mobile dan situs web Eagle Vision."
         link="/posts/swaglabs/"
         img={{
-          src: '/assets/images/swaglab.png',
+          src: '/assets/images/eagle-vision.png',
           alt: 'Project Web Design',
         }}
         category={
