@@ -9,13 +9,14 @@ imgAlt: 'Image post 8'
 
 ---
 
-## Dokumentasi Proyek Bootcamp QA
-
 ## 1. Pendahuluan : 
 
 ### Deskripsi Proyek
 
-Secondhand adalah platform marketplace yang memungkinkan pengguna untuk menjual dan membeli barang bekas. Fitur utama meliputi registrasi, login, unggah produk, pencarian produk, dan transaksi.
+Eagle Vision adalah platform manajemen operasional dan HR yang membantu bisnis memantau tugas karyawan, kehadiran, dan kesiapan toko. Fitur utamanya mencakup analisis kompetitor, manajemen stok, pelacakan tugas, analitik bisnis, dan pengurangan kerugian. Platform ini dirancang untuk efisiensi waktu, wawasan strategis, dan mendukung pertumbuhan bisnis.
+
+Detail lebih lanjut dapat ditemukan di
+[Eagle Vision](https://ev.layana.dev/home2 "Eagle Vision")
 
 ### Tujuan Dokumentasi:
 
