@@ -18,7 +18,7 @@ const ProjectList = () => (
       <Project
         name="EAGLE VISION"
         description="Sebagai QA Manual di PT Deus Human Capital Service, saya memiliki tanggung jawab utama untuk memastikan kualitas aplikasi mobile dan situs web Eagle Vision."
-        link="/posts/swaglabs/"
+        link="/posts/eagle-vision/"
         img={{
           src: '/assets/images/eagle-vision.png',
           alt: 'Project Web Design',
