@@ -20,74 +20,49 @@ Detail lebih lanjut dapat ditemukan di
 
 ### Tujuan Dokumentasi:
 
-Mencatat proses QA termasuk eksplorasi bug, pembuatan test case dan test scenario, API testing, performance testing, hingga automation testing untuk memastikan kualitas sistem
+#### 1. Membuat Test Case dan Test Scenario:
+- Merancang skenario dan langkah pengujian untuk memastikan semua fungsi produk berjalan sesuai kebutuhan.
+- Menggunakan spreadsheet tool pengujian untuk mendokumentasikan test case, termasuk input, proses, dan output yang diharapkan.
+
+#### 2. Melakukan Exploratory Testing:
+- Melakukan eksplorasi manual terhadap produk untuk menemukan bug yang belum terdeteksi.
+- Memanfaatkan pengalaman pengguna untuk mengidentifikasi area rawan error atau fitur yang tidak intuitif.
+
+#### 3. Membuat Bug Report:
+- Mendokumentasikan detail setiap bug yang ditemukan, termasuk deskripsi, langkah reproduksi, lingkungan pengujian, prioritas, dan bukti seperti screenshot/log atau video langkah penemuan bug.
+- Mencatat dan melaporkan setiap bug yang ditemukan langsung ke website khusus yang telah disediakan oleh tim Developer.
+
+### Langkah Pelaksanaan:
+
+#### 1. Persiapan:
+- Identifikasi fitur atau modul yang akan diuji.
+- Kumpulkan dokumen spesifikasi produk (SRS/PRD) untuk memahami kebutuhan.
+- Siapkan template untuk test case dan bug report.
+
+#### 2. Eksekusi Pengujian:
+- Menjalankan test case sesuai skenario yang telah dibuat.
+- Melakukan exploratory testing pada area yang tidak tercakup oleh test case untuk menemukan potensi bug.
+
+#### 3. Melaporkan Temuan:
+- Melaporkan semua bug ke website pelaporan bug yang telah disediakan.
+- Masukkan informasi detail seperti:
+  - Judul Bug: Singkat dan jelas.
+  - Deskripsi Bug: Penjelasan mengenai bug yang ditemukan.
+  - Langkah Reproduksi: Langkah-langkah untuk memunculkan bug.
+  - Prioritas: (High/Medium/Low).
+  - Bukti Pendukung: Screenshot, video, atau log error.
+- Update status bug secara berkala jika ada perbaikan.
 
 ### Timeline Pengujian
 
-Durasi Proyek: Juli hingga Oktober 2023
+Durasi Proyek: 1 Bulan (19 Desember 2024 - 19 Januari 2025)
 
-| Bulan         |      Aktivitas                                                   | Keterangan |
+| Minggu        |      Aktivitas                                                   | Keterangan |
 | ------------- | :--------------------------------------------------------------: | -----------------------------------------------------------------------------: |
-| Juli          | Exploratory Testing & Bug Reporting	                             | Mendeteksi bug utama pada fitur login, registrasi, dan pencarian produk.       |
-| Agustus       | Pembuatan Test Case dan Test Scenario	                           | Menyusun 50+ test case berbasis skenario bisnis dan fungsionalitas aplikasi.   |
-| September	    | API Testing dengan Postman dan Performance Testing dengan JMeter | Menguji API endpoint utama serta simulasi beban pengguna pada fitur pencarian. |
-| Oktober	      | Automation Testing dan Review Progres QA                         | Mengimplementasikan skrip Selenium dan menyusun laporan akhir proyek.          |
+| Minggu 1      | Exploratory Testing & Bug Reporting	                             | Mendeteksi bug utama pada fitur login, registrasi, dan pencarian produk.       |
+| Minggu 2      | Pembuatan Test Case dan Test Scenario	                           | Menyusun 50+ test case berbasis skenario bisnis dan fungsionalitas aplikasi.   |
+| Minggu 3	    | API Testing dengan Postman dan Performance Testing dengan JMeter | Menguji API endpoint utama serta simulasi beban pengguna pada fitur pencarian. |
+| Minggu 4	    | Automation Testing dan Review Progres QA                         | Mengimplementasikan skrip Selenium dan menyusun laporan akhir proyek.          |
 
-### Kolaborasi dengan QA Lain
-Tools yang Digunakan:
-
-Trello: Untuk manajemen tugas, pembagian job desk, dan pelacakan progres.
-Zoom Meet: Untuk pertemuan mingguan membahas perkembangan tugas QA.
-Miro: Untuk sprint retrospective mingguan dan brainstorming masalah QA.
-Telegram: Komunikasi cepat untuk diskusi teknis. 
-
-### Jadwal Meeting:
-
-Frekuensi: Satu kali per minggu, setiap Kamis pukul 10.00 WIB.
-Agenda Utama:
-Review bug yang ditemukan.
-Pembaruan status test case di Trello.
-Sprint retrospective untuk evaluasi pekan berjalan dan rencana pekan berikutnya.
-Diskusi kendala teknis pada API/Postman, JMeter, atau automation.
-
-### Sprint Retrospective dengan Miro:
-
-Kerangka Retrospective:
-- What Went Well: Hal yang berjalan baik selama sprint.
-- What Didn’t Work: Masalah atau kendala yang dihadapi tim QA.
-- Action Items: Rencana perbaikan atau langkah lanjutan untuk sprint berikutnya.
-
-Dengan adanya Miro, tim QA dapat lebih efektif dalam mengevaluasi dan meningkatkan kualitas pekerjaan setiap minggu.
-
-### 2. Mencari Bug
-
-Pendekatan Testing:
-Dilakukan exploratory testing pada fitur utama seperti login, unggah produk, dan checkout.
-
-![alt text](/assets/images/bug.png 'Dokumentasi Bug')
-
-Lampiran Bug List:
-[Dokumentasi Bug](https://docs.google.com/document/d/1UWyP52RSNy6ajs4od1KVh5ueIKSk91g1/edit?usp=sharing&ouid=106378069491676762286&rtpof=true&sd=true "Dokumentasi Bug")
-
-
-### 3. Membuat Test Case & Test Scenario
-
-![alt text](/assets/images/test_case.png 'Dokumentasi Test Case')
-
-Lampiran Test Case & Test Scenario:
-[Dokumentasi Test Case & Test Scenario](https://docs.google.com/spreadsheets/d/1vR60SfsEgfKWEnIY0c0tq0Fxe_bXHRf6HvF65ix3Lnk/edit?gid=1028355474#gid=1028355474 "Dokumentasi Test Case & Test Scenario")
-
-### 4. API Testing dengan Postman
-
-Lampiran API Testing:
-[Dokumentasi API Testing](https://drive.google.com/drive/folders/1zAwie0w9LcAWFn7zLOD7_qMjVh28Xzvq?usp=sharing "Dokumentasi API Testing")
-
-### 5. Performance Testing dengan JMeter
-
-Lampiran Performance Testing: 
-[Dokumentasi Performance Testing](https://github.com/rivalmsayid/Portfolio-Bootcamp-QA/tree/main/1.%20Gold%20Challenge/4.%20Apache%20JMeter/Report%20Website "Performance Testing")
-
-### 6. Automation Testing dengan Katalon Studio
-
-Lampiran Automation Testing: [Dokumentasi Automation Testing](https://gitlab.com/rivalmsayid/project-binar-website "Dokumentasi Automation Testing")
-
+### 4. Penutup
+Dokumentasi ini bertujuan untuk mendukung kegiatan Quality Assurance pada proyek Eagle Vision, memastikan kualitas produk tetap terjaga, dan memberikan pengalaman terbaik kepada pengguna. Seluruh langkah yang telah dirancang mencakup pengujian manual dan otomatis yang berfokus pada aspek fungsionalitas, performa, dan pengalaman pengguna.
