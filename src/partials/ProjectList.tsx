@@ -16,8 +16,8 @@ const ProjectList = () => (
   >
     <div className="flex flex-col gap-6">
       <Project
-        name="EAGLE VISION"
-        description="Sebagai QA Manual di PT Deus Human Capital Service, saya memiliki tanggung jawab utama untuk memastikan kualitas aplikasi mobile dan situs web Eagle Vision."
+        name="EAGLE VISION MOBILE & WEBSITE"
+        description="Sebagai QA Manual di PT Deus Human Capital Service, saya memiliki tanggung jawab utama untuk memastikan kualitas aplikasi mobile dan website Eagle Vision."
         link="/posts/eagle-vision/"
         img={{
           src: '/assets/images/eagle-vision.png',
