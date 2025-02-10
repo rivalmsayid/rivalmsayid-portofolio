@@ -33,7 +33,7 @@ const Navbar = () => (
       </a>
 
       <NavMenu>
-        <NavMenuItem href="https://drive.google.com/file/d/1KwjWVdxx5EujnorZS-WNgovcu6fQv3fl/view?usp=sharing">
+        <NavMenuItem href="https://drive.google.com/file/d/1LEheH4saK2YvfDZlADdfnoiGB-mQn9gq/view?usp=sharing">
           Download CV
         </NavMenuItem>
         <NavMenuItem href="/posts/">Blogs</NavMenuItem>
