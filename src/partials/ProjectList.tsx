@@ -27,7 +27,7 @@ const ProjectList = () => (
           <>
             <Tags color={ColorTags.FUCHSIA}>UAT Testing</Tags>
             <Tags color={ColorTags.LIME}>UI UX Testing</Tags>
-            {/* <Tags color={ColorTags.SKY}>Regression Testing</Tags> */}
+            <Tags color={ColorTags.SKY}>Functional Testing</Tags>
           </>
         }
       />
@@ -41,9 +41,9 @@ const ProjectList = () => (
         }}
         category={
           <>
-            <Tags color={ColorTags.FUCHSIA}>E2E Testing</Tags>
-            <Tags color={ColorTags.LIME}>Smoke Testing</Tags>
-            <Tags color={ColorTags.SKY}>Regression Testing</Tags>
+            {/* <Tags color={ColorTags.FUCHSIA}>E2E Testing</Tags> */}
+            <Tags color={ColorTags.LIME}>UI/UX Testing</Tags>
+            <Tags color={ColorTags.SKY}>Functional Testing</Tags>
           </>
         }
       />
@@ -57,8 +57,9 @@ const ProjectList = () => (
             <Tags color={ColorTags.EMERALD}>Katalon Studio</Tags>
             <Tags color={ColorTags.YELLOW}>Cucumber</Tags>
             <Tags color={ColorTags.VIOLET}>BDD</Tags>
-            <Tags color={ColorTags.INDIGO}>Regression</Tags>
+            <Tags color={ColorTags.LIME}>UI/UX Testing</Tags>
             <Tags color={ColorTags.FUCHSIA}>E2E Testing</Tags>
+            <Tags color={ColorTags.SKY}>Functional Testing</Tags>
           </>
         }
       />
@@ -71,10 +72,11 @@ const ProjectList = () => (
           <>
             {/* <Tags color={ColorTags.FUCHSIA}>Astro.js</Tags> */}
             <Tags color={ColorTags.EMERALD}>Katalon Studio</Tags>
-            <Tags color={ColorTags.ROSE}>Appium</Tags>
+            <Tags color={ColorTags.YELLOW}>Cucumber</Tags>
             <Tags color={ColorTags.VIOLET}>BDD</Tags>
-            <Tags color={ColorTags.INDIGO}>Regression</Tags>
+            <Tags color={ColorTags.LIME}>UI/UX Testing</Tags>
             <Tags color={ColorTags.FUCHSIA}>E2E Testing</Tags>
+            <Tags color={ColorTags.SKY}>Functional Testing</Tags>
           </>
         }
       />
