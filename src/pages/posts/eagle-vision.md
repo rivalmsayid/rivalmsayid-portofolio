@@ -1,8 +1,8 @@
 ---
 layout: '@/templates/BasePost.astro'
-title: EAGLE VISION - Mobile Apps
+title: EAGLE VISION - Mobile & Website Apps
 description: EAGLE VISION adalah platform manajemen SDM Operasional yang memungkinkan pengguna untuk mengatur semua aktivitas dan mencatat bisnis model.
-pubDate: 2023-11-1T00:00:00Z
+pubDate: 2025-01-19T00:00:00Z
 imgSrc: '/assets/images/image-home-ev.png'
 imgAlt: 'Image post 8'
 ---
@@ -61,8 +61,8 @@ Durasi Proyek: 1 Bulan (19 Desember 2024 - 19 Januari 2025)
 | ------------- | :--------------------------------------------------------------: | -----------------------------------------------------------------------------: |
 | Minggu 1      | Exploratory Testing & Bug Reporting	                             | Mendeteksi bug utama pada fitur login, registrasi, dan pencarian produk.       |
 | Minggu 2      | Pembuatan Test Case dan Test Scenario	                           | Menyusun 50+ test case berbasis skenario bisnis dan fungsionalitas aplikasi.   |
-| Minggu 3	    | API Testing dengan Postman dan Performance Testing dengan JMeter | Menguji API endpoint utama serta simulasi beban pengguna pada fitur pencarian. |
-| Minggu 4	    | Automation Testing dan Review Progres QA                         | Mengimplementasikan skrip Selenium dan menyusun laporan akhir proyek.          |
+| Minggu 3	    | Testing Semua Modul                                              | Melakukan eksekusi test case manual pada semua modul aplikasi.                 |
+| Minggu 4	    | Review dan Report Test Case Manual                               | Review test case dan memperbarui jika diperlukan.                              |
 
 ### 4. Penutup
-Dokumentasi ini bertujuan untuk mendukung kegiatan Quality Assurance pada proyek Eagle Vision, memastikan kualitas produk tetap terjaga, dan memberikan pengalaman terbaik kepada pengguna. Seluruh langkah yang telah dirancang mencakup pengujian manual dan otomatis yang berfokus pada aspek fungsionalitas, performa, dan pengalaman pengguna.
+Dokumentasi ini bertujuan untuk mendukung kegiatan Quality Assurance pada proyek Eagle Vision, memastikan kualitas produk tetap terjaga, dan memberikan pengalaman terbaik kepada pengguna. Seluruh langkah yang telah dirancang mencakup pengujian manual yang berfokus pada aspek fungsionalitas, performa, dan pengalaman pengguna.
