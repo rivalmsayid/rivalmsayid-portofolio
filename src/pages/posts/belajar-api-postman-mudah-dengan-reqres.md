@@ -65,10 +65,13 @@ Untuk memperbarui data pengguna, kita menggunakan metode PUT.
 - URL: https://reqres.in/api/users/2
 - Method: PUT
 - Body (JSON):
-{
+
+ ```python
+  {
   "name": "Jane Doe",
   "job": "Data Analyst"
-}
+  }
+  ```
 
 - Langkah-langkah:
 1. Pilih method PUT
