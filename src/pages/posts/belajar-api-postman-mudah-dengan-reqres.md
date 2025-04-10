@@ -35,6 +35,8 @@ Mendapatkan daftar pengguna
  4. Klik tombol Send
  5. Hasil yang diterima akan berupa daftar pengguna dalam format JSON
 
+![alt text](/assets/images/get-api.png 'Dokumentasi API Postman')
+
 ## 2. Mengirim Request POST (Menambahkan Pengguna)
 
 Untuk menambahkan pengguna, kita menggunakan metode POST dengan mengirimkan data JSON.
