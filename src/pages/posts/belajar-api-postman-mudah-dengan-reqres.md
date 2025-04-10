@@ -43,10 +43,12 @@ Untuk menambahkan pengguna, kita menggunakan metode POST dengan mengirimkan data
 - Method: POST
 - Body (raw, JSON):
 
-  ```{
+  ```python
+  {
    "name": "Rival Muhammad Sayid",
    "job": "Quality Assurance Engineer"
-  }```
+  }
+  ```
 
 - Langkah-langkah:
 1. Pilih method POST
