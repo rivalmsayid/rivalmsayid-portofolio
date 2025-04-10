@@ -3,7 +3,7 @@ layout: '@/templates/BasePost.astro'
 title: Belajar API Postman Mudah dengan Reqres
 description: Panduan praktis belajar API dengan Postman menggunakan Reqres. Pelajari cara mengirim GET, POST, PUT, dan DELETE request dengan mudah tanpa perlu backend! 🚀
 pubDate: 2025-04-10T00:00:00Z
-imgSrc: '/assets/images/image-home-ev.png'
+imgSrc: '/assets/images/reqres.jpg'
 imgAlt: 'Image post 8'
 ---
 
