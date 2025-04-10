@@ -42,10 +42,11 @@ Untuk menambahkan pengguna, kita menggunakan metode POST dengan mengirimkan data
 - URL: https://reqres.in/api/users
 - Method: POST
 - Body (raw, JSON):
-  {
+
+  ```{
    "name": "Rival Muhammad Sayid",
    "job": "Quality Assurance Engineer"
-  }
+  }```
 
 - Langkah-langkah:
 1. Pilih method POST
