@@ -16,7 +16,7 @@ Postman adalah alat yang sangat populer untuk menguji API. Dengan Postman, kita 
 
 ## Persiapan :
 
-Sebelum mulai, pastikan Anda sudah menginstal Postman. Jika belum, unduh dan instal dari situs resmi Postman. Atau bisa juga menggunakan Postman Web. https://web.postman.co/
+Sebelum mulai, pastikan Anda sudah menginstal Postman. Jika belum, unduh dan instal dari situs resmi Postman. Atau bisa juga menggunakan Postman Web (https://web.postman.co/).
 
 ## Menggunakan Reqres dengan Postman
 
