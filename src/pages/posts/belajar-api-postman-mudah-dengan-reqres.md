@@ -60,6 +60,8 @@ Untuk menambahkan pengguna, kita menggunakan metode POST dengan mengirimkan data
 5. Klik Send
 6. Jika berhasil, akan ada response dengan data pengguna yang baru dibuat
 
+![alt text](/assets/images/post-api.png 'Dokumentasi API Postman')
+
 ## 3. Mengirim Request PUT (Mengupdate Pengguna)
 
 Untuk memperbarui data pengguna, kita menggunakan metode PUT.
@@ -83,6 +85,8 @@ Untuk memperbarui data pengguna, kita menggunakan metode PUT.
 5. Klik Send
 6. Jika berhasil, response akan menunjukkan data pengguna yang diperbarui
 
+![alt text](/assets/images/put-api.png 'Dokumentasi API Postman')
+
 ## 4. Mengirim Request DELETE (Menghapus Pengguna)
 
 Jika ingin menghapus pengguna, gunakan metode DELETE.
@@ -95,6 +99,8 @@ Jika ingin menghapus pengguna, gunakan metode DELETE.
 2. Masukkan URL
 3. Klik Send
 4. Jika berhasil, akan mendapatkan response dengan status 204 No Content
+
+![alt text](/assets/images/delete-api.png 'Dokumentasi API Postman')
 
 ### Kesimpulan
 
