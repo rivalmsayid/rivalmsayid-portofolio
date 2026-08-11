@@ -55,7 +55,7 @@ Detail lebih lanjut dapat ditemukan di
 
 ### Timeline Pengujian
 
-Durasi Proyek: 1 Bulan (19 Desember 2024 - 19 Januari 2025)
+Durasi Proyek: 3 Bulan 
 
 | Minggu        |      Aktivitas                                                   | Keterangan |
 | ------------- | :--------------------------------------------------------------: | -----------------------------------------------------------------------------: |
